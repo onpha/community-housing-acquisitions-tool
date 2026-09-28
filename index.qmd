@@ -44,7 +44,7 @@ twitter-card: true
 
 <div id="main-content">
   <aside class="demo-notice section-shell" role="note">
-    <p><strong>Note:</strong> This website is for unofficial demonstration purposes. An official webpage for the LEMR platform will be available soon including information about accessing the tool.</p>
+    <p><strong>Note:</strong> This website is for demonstration purposes. An official webpage for the LEMR platform will be available soon including information about accessing the tool.</p>
   </aside>
 
   <section class="summary section-shell" id="summary" aria-labelledby="summary-title">
@@ -213,7 +213,12 @@ twitter-card: true
       <h2 id="next-title">What’s Next?</h2>
       <div class="summary-copy">
         <p class="lead">The tool is in the final stages of development and will be available soon.</p>
-        <p>We are preparing to use the tool in acquisition projects and partnering with community housing providers to better understand their acquisition processes and needs.</p>
+        <p>We are preparing to work with partner community housing providers to apply the tool to their acquisition efforts. Through conversations with providers and sector experts, we are identifying where additional tools and support could be most useful.</p>
+        <div class="analytics-callout" role="note" aria-labelledby="analytics-title">
+          <h3 id="analytics-title">Looking for additional analytical support?</h3>
+          <p>We can provide tailored property reports and market analysis to support acquisition planning and help you prepare for CRPF/CHAF funding applications.</p>
+          <a href="https://onpha.on.ca/community-housing-market-data/">Learn more about our market data and analytical support <span aria-hidden="true">→</span></a>
+        </div>
       </div>
     </div>
   </section>
@@ -228,12 +233,12 @@ twitter-card: true
         <div class="contact-list">
           <div class="contact-person">
             <h3>Adam Fraser</h3>
-            <p>Ontario Non-Profit Housing Association</p>
+            <p>Technical Lead and Analyst<br>Ontario Non-Profit Housing Association</p>
             <a href="mailto:adam.fraser@onpha.org">adam.fraser@onpha.org</a>
           </div>
           <div class="contact-person">
             <h3>Jon Paul Mathias</h3>
-            <p>Canadian Centre for Housing Rights</p>
+            <p>Project Coordinator<br>Canadian Centre for Housing Rights</p>
             <a href="mailto:jmathias@housingrightscanada.com">jmathias@housingrightscanada.com</a>
           </div>
         </div>
